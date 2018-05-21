@@ -3,9 +3,7 @@
 
 def key_for_min_value(name_hash)
   smallest_value=nil 
-  
+  smallest_key=nil
   name_hash.each do |key,value|
-    count=0 
-    while count <name_hash.length 
-      if value >=
+    if 
 end
